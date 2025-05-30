@@ -3,5 +3,6 @@
   { "id": 2, "nombre": "Banana", "color": "amarillo" },
   { "id": 3, "nombre": "Naranja", "color": "naranja" },
   { "id": 4, "nombre": "Pera", "color": "verde" },
-  { "id": 5, "nombre": "Uva", "color": "morado" }
+  { "id": 5, "nombre": "Uva", "color": "morado" },
+  { "id": 6, "nombre": "manzana verde", "color": "verde"}
 ]
